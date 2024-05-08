@@ -1,0 +1,8 @@
+Docker is a platform for developing, shipping, and running applications using containerization.
+Containerization: Docker enables developers to package applications and their dependencies into lightweight containers. Containers encapsulate everything needed to run an application, including code, runtime, system tools, libraries, and settings.
+The Docker Engine runs on the host operating system and manages containers.
+Containers are isolated environments that run applications and their dependencies. 
+
+Docker Toolbox: Legacy solution for running Docker on older Windows and macOS systems.
+Docker Desktop: Official Docker solution for running Docker on modern Windows and macOS systems.
+Docker Quickstart: Deprecated script for setting up Docker Toolbox on Windows and macOS.
