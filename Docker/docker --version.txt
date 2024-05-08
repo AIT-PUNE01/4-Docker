@@ -1,0 +1,3 @@
+docker --version
+node index.js
+docker build -t wad .
