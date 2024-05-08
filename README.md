@@ -13,3 +13,8 @@ three applications should be present :
 ```node index.js```
 
 ```docker build -t (folder name) .```
+
+
+
+The docker build -t <folder_name> . command builds a Docker image from the Dockerfile located in the specified folder, tagging it with the provided name.
+Docker Image: A Docker image is a read-only template used to create containers.
