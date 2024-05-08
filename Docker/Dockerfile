@@ -1,3 +1,3 @@
 FROM node:alpine
-COPY . /wad
-CMD node / wad / index.js
+COPY . /(folder name)
+CMD node / (folder name) / index.js
